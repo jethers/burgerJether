@@ -1,8 +1,8 @@
 <html>
-<header><title>Criando uma p·gina php...</title><meta charset="UTF-8"></header>
+<header><title>Criando uma p√°gina php...</title><meta charset="UTF-8"></header>
 <body>
-<h1>Burger do ZÈ</h1>
-Burger do ZÈ
+<h1>Burger do Z√©</h1>
+Burger do Z√©
 
 Teste 123 
 
