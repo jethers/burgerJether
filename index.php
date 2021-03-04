@@ -1,6 +1,5 @@
 <html>
-<header><title>Criando uma página php...</title></header>
-<meta charset="UTF-8">
+<header><title>Criando uma página php...</title><meta charset="UTF-8"></header>
 <body>
 <h1>Burger do Zé</h1>
 Burger do Zé
